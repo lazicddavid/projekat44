@@ -5,3 +5,7 @@ function showMessage() {
     output.textContent = messages[index];
 }
 
+function clearOutput() {
+    document.getElementById('output').textContent = '';
+}
+
