@@ -27,6 +27,8 @@ body {
 h1 {
     margin-bottom: 1rem;
     color: #444;
+    font-size: 2rem;
+    letter-spacing: 1px;
 }
 
 button {
