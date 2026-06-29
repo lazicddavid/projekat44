@@ -41,6 +41,8 @@ button {
 
 button:hover {
     background-color: #357abd;
+    transform: scale(1.05);
+    transition: transform 0.2s;
 }
 
 #output {
