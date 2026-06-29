@@ -49,4 +49,11 @@ button:hover {
     margin-top: 1rem;
     font-size: 1.1rem;
     color: #555;
+    min-height: 1.5rem;
+    transition: color 0.3s;
+}
+
+#output:not(:empty) {
+    color: #4a90e2;
+    font-weight: bold;
 }
