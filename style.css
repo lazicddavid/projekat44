@@ -85,3 +85,47 @@ body {
     background: #c73652;
     transform: scale(1.05);
 }
+
+/* ABOUT */
+.about {
+    padding: 5rem 2rem;
+    background: #f9f9f9;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2rem;
+    margin-bottom: 2.5rem;
+    color: #1a1a2e;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 2rem;
+    width: 220px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card h3 {
+    font-size: 1.3rem;
+    margin-bottom: 0.7rem;
+    color: #e94560;
+}
+
+.card p {
+    color: #666;
+    font-size: 0.95rem;
+}
