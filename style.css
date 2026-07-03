@@ -47,6 +47,25 @@ body {
     color: #e94560;
 }
 
+.nav-buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.nav-btn {
+    width: 36px;
+    height: 36px;
+    background: transparent;
+    border: 2px solid #e94560;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.nav-btn:hover {
+    background: #e94560;
+}
+
 /* HERO */
 .hero {
     height: 100vh;
