@@ -24,7 +24,7 @@ body {
 }
 
 .nav-logo {
-    color: #9c27b0;
+    color: #2196f3;
     font-size: 1.5rem;
     font-weight: bold;
     letter-spacing: 2px;
@@ -80,7 +80,7 @@ body {
 .hero-content h1 {
     font-size: 2.1rem;
     margin-bottom: 1rem;
-    color: #9c27b0;
+    color: #2196f3;
 }
 
 .hero-content p {
@@ -92,7 +92,7 @@ body {
 .btn {
     display: inline-block;
     padding: 0.8rem 2rem;
-    background: #9c27b0;
+    background: #2196f3;
     color: #fff;
     text-decoration: none;
     border-radius: 30px;
