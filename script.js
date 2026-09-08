@@ -1,6 +1,6 @@
 function showMessage() {
     const output = document.getElementById('output');
-    const messages = ['Hello!', 'Welcome!', 'Click again!'];
+    const messages = ['Hi there!', 'Projekat 44', 'Nice click!'];
     const index = Math.floor(Math.random() * messages.length);
     output.textContent = messages[index];
 }
