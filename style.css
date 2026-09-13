@@ -78,7 +78,7 @@ body {
 }
 
 .hero-content h1 {
-    font-size: 2.1rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
     color: #4caf50;
 }
@@ -127,7 +127,7 @@ body {
 
 .card {
     background: #fff;
-    border-radius: 16px;
+    border-radius: 8px;
     padding: 2rem;
     width: 220px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
@@ -151,7 +151,7 @@ body {
 
 /* CONTACT */
 .contact {
-    padding: 6rem 2rem;
+    padding: 5rem 2rem;
     background: #16213e;
     text-align: center;
     color: #fff;
