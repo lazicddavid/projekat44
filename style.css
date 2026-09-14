@@ -78,7 +78,7 @@ body {
 }
 
 .hero-content h1 {
-    font-size: 2.3rem;
+    font-size: 1.9rem;
     margin-bottom: 1rem;
     color: #2196f3;
 }
@@ -151,7 +151,7 @@ body {
 
 /* CONTACT */
 .contact {
-    padding: 5rem 2rem;
+    padding: 4.5rem 2rem;
     background: #16213e;
     text-align: center;
     color: #fff;
