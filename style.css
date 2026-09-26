@@ -107,7 +107,7 @@ body {
 
 /* ABOUT */
 .about {
-    padding: 5rem 2rem;
+    padding: 4.5rem 2rem;
     background: #f9f9f9;
     text-align: center;
 }
@@ -127,7 +127,7 @@ body {
 
 .card {
     background: #fff;
-    border-radius: 12px;
+    border-radius: 16px;
     padding: 2rem;
     width: 220px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
